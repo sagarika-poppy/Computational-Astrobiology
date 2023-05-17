@@ -4,8 +4,8 @@ Course material for the course of Computational Astrobiology at the University o
 \
 Lecturer - Andjelka Kovačević
 
-\ 
-Most of the notebooka have been taken from:
+ 
+Most of the notebooks have been taken from:
 \
 https://github.com/nageshsinghc4
 \
